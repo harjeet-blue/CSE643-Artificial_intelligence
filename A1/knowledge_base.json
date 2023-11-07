@@ -1,0 +1,621 @@
+{
+    "Delhi": {
+        "weather": "Varied",
+        "activities": [
+            "Historical Sites",
+            "Cuisine",
+            "Shopping"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Short-haul",
+        "feedbacks": [
+            "Delhi is a city of contrasts. While it has a rich history, the traffic and pollution can be overwhelming.",
+            "The food in Delhi is amazing! I loved trying different street foods.",
+            "I had a great time exploring Delhi's historical sites and learning about its culture."
+        ],
+        "rating": [
+            3,
+            4,
+            4
+        ]
+    },
+    "Mumbai": {
+        "weather": "Varied",
+        "activities": [
+            "Beaches",
+            "Cuisine",
+            "Entertainment"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Short-haul",
+        "feedbacks": [
+            "Mumbai is a bustling metropolis with a vibrant nightlife. However, it can get crowded and noisy.",
+            "The street food in Mumbai is a must-try, but be cautious about hygiene.",
+            "Mumbai has a unique charm, and the people are welcoming and friendly."
+        ],
+        "rating": [
+            4,
+            3,
+            4
+        ]
+    },
+    "Jaipur": {
+        "weather": "Hot",
+        "activities": [
+            "Historical Sites",
+            "Palaces",
+            "Shopping"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Short-haul",
+        "feedbacks": [
+            "Jaipur's historical sites are stunning, but the summers can be scorching hot.",
+            "The shopping in Jaipur is fantastic, and you can find beautiful handicrafts.",
+            "Exploring Jaipur's palaces feels like stepping back in time."
+        ],
+        "rating": [
+            4,
+            5,
+            4
+        ]
+    },
+    "Goa": {
+        "weather": "Hot",
+        "activities": [
+            "Beaches",
+            "Nightlife",
+            "Water Sports"
+        ],
+        "connectivity": [
+            "Air",
+            "Road",
+            "Water"
+        ],
+        "budget": "Moderate",
+        "distance": "Short-haul",
+        "feedbacks": [
+            "Goa's beaches are a paradise for beach lovers, but it can get crowded during peak season.",
+            "The nightlife in Goa is legendary, with plenty of clubs and bars to choose from.",
+            "Water sports in Goa are thrilling, and I had an amazing time jet-skiing."
+        ],
+        "rating": [
+            4,
+            4,
+            5
+        ]
+    },
+    "Kolkata": {
+        "weather": "Varied",
+        "activities": [
+            "Cultural Heritage",
+            "Cuisine",
+            "Shopping"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Short-haul",
+        "feedbacks": [
+            "Kolkata is known for its rich cultural heritage, but it can get humid during the summer.",
+            "The Bengali cuisine in Kolkata is a treat for foodies. Don't miss trying the sweets!",
+            "Shopping in Kolkata's markets is a delightful experience, and you can find unique items."
+        ],
+        "rating": [
+            4,
+            4,
+            3
+        ]
+    },
+    "New York City": {
+        "weather": "Varied",
+        "activities": [
+            "Sightseeing",
+            "Theater",
+            "Dining"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "High-End",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "New York City is a vibrant and diverse city with something for everyone.",
+            "The theater scene in NYC is incredible. Don't miss a Broadway show!",
+            "While NYC is amazing, it can be expensive, so plan your budget accordingly."
+        ],
+        "rating": [
+            5,
+            5,
+            4
+        ]
+    },
+    "Tokyo": {
+        "weather": "Cold",
+        "activities": [
+            "Cultural Sites",
+            "Sushi",
+            "Shopping"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Tokyo is a blend of modernity and tradition. Explore both aspects of this incredible city.",
+            "Sushi lovers will be in heaven in Tokyo. Try sushi at local spots!",
+            "Tokyo's public transport is efficient, making it easy to get around."
+        ],
+        "rating": [
+            5,
+            5,
+            4
+        ]
+    },
+    "Rio de Janeiro": {
+        "weather": "Hot",
+        "activities": [
+            "Beaches",
+            "Carnival",
+            "Samba"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Rio de Janeiro's beaches are world-famous. Enjoy the sun and surf!",
+            "Experience the energy of Carnival and the rhythm of Samba in Rio.",
+            "Be cautious in crowded areas to avoid pickpocketing."
+        ],
+        "rating": [
+            4,
+            5,
+            3
+        ]
+    },
+    "Sydney": {
+        "weather": "Mild",
+        "activities": [
+            "Opera House",
+            "Surfing",
+            "Wildlife"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Sydney's Opera House is an iconic landmark. Take a guided tour.",
+            "Surfing enthusiasts will find great waves in Sydney's beaches.",
+            "Explore the local wildlife at Taronga Zoo."
+        ],
+        "rating": [
+            4,
+            4,
+            5
+        ]
+    },
+    "Cairo": {
+        "weather": "Hot",
+        "activities": [
+            "Pyramids",
+            "Nile Cruise",
+            "Bazaars"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Budget-Friendly",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Visiting the Pyramids of Giza is a must. Hire a local guide for insights.",
+            "Take a Nile cruise to explore ancient temples along the river.",
+            "Enjoy bargaining at Cairo's bustling bazaars for souvenirs."
+        ],
+        "rating": [
+            4,
+            4,
+            4
+        ]
+    },
+    "Cape Town": {
+        "weather": "Mild",
+        "activities": [
+            "Table Mountain",
+            "Safari",
+            "Beaches"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Hike up Table Mountain for breathtaking views of Cape Town.",
+            "A safari in nearby reserves offers a chance to see the Big Five.",
+            "Relax on Cape Town's beautiful beaches like Camps Bay."
+        ],
+        "rating": [
+            5,
+            5,
+            4
+        ]
+    },
+    "Venice": {
+        "weather": "Mild",
+        "activities": [
+            "Canals",
+            "Art",
+            "Cuisine"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Exploring Venice's canals on a gondola is a romantic experience.",
+            "Admire the art and architecture in Venice's historic sites.",
+            "Try authentic Venetian cuisine in local trattorias."
+        ],
+        "rating": [
+            4,
+            5,
+            4
+        ]
+    },
+    "Paris": {
+        "weather": "Mild",
+        "activities": [
+            "Sightseeing",
+            "Cuisine",
+            "Shopping"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "This was the most amazing trip I've ever been on! I loved the food, the culture, and the people.",
+            "Paris is a beautiful city with so much to see and do. I highly recommend visiting!",
+            "I had a wonderful time in Paris. The city is so romantic and there is so much to do and see. I would definitely recommend it to anyone."
+        ],
+        "rating": [
+            5,
+            5,
+            5
+        ]
+    },
+    "Bali": {
+        "weather": "Cold",
+        "activities": [
+            "Beach",
+            "Surfing",
+            "Temples"
+        ],
+        "connectivity": [
+            "Air",
+            "Water"
+        ],
+        "budget": "Budget-Friendly",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Bali is a paradise for beach lovers. The beaches are stunning!",
+            "Surfing in Bali is a thrilling experience. Try it even if you're a beginner.",
+            "Exploring Bali's temples gives you insights into its rich culture."
+        ],
+        "rating": [
+            5,
+            4,
+            4
+        ]
+    },
+    "Dubai": {
+        "weather": "Hot",
+        "activities": [
+            "Skyscrapers",
+            "Desert Safari",
+            "Shopping"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "High-End",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Dubai's skyline is incredible. Visit the Burj Khalifa for breathtaking views.",
+            "Experience a desert safari in the Dubai desert for an adventurous outing.",
+            "Dubai is a shopper's paradise with luxurious malls and traditional markets."
+        ],
+        "rating": [
+            4,
+            5,
+            5
+        ]
+    },
+    "Santorini": {
+        "weather": "Mild",
+        "activities": [
+            "Sunsets",
+            "Beaches",
+            "Greek Cuisine"
+        ],
+        "connectivity": [
+            "Air",
+            "Water"
+        ],
+        "budget": "High-End",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Santorini's sunsets are legendary. Watch the sunset in Oia for a magical experience.",
+            "The beaches in Santorini are unique with black and red sands.",
+            "Indulge in delicious Greek cuisine while enjoying the island's beauty."
+        ],
+        "rating": [
+            5,
+            5,
+            4
+        ]
+    },
+    "Amsterdam": {
+        "weather": "Varied",
+        "activities": [
+            "Canals",
+            "Museums",
+            "Cycling"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Explore Amsterdam's picturesque canals by taking a canal cruise.",
+            "Visit world-class museums like the Rijksmuseum and the Van Gogh Museum.",
+            "Experience the city like a local by renting a bike and cycling around."
+        ],
+        "rating": [
+            5,
+            5,
+            4
+        ]
+    },
+    "Prague": {
+        "weather": "Varied",
+        "activities": [
+            "Historic Sites",
+            "Czech Cuisine",
+            "Nightlife"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Prague's historic sites are stunning. Don't miss the Prague Castle.",
+            "Try traditional Czech dishes like goulash and trdeln\u00edk.",
+            "Prague's nightlife is vibrant, with plenty of bars and clubs to enjoy."
+        ],
+        "rating": [
+            4,
+            5,
+            4
+        ]
+    },
+    "Istanbul": {
+        "weather": "Varied",
+        "activities": [
+            "Historical Sites",
+            "Turkish Cuisine",
+            "Bazaars"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Explore Istanbul's rich history by visiting the Hagia Sophia and Blue Mosque.",
+            "Indulge in delicious Turkish cuisine, including kebabs and baklava.",
+            "Shop for unique treasures in Istanbul's bustling bazaars."
+        ],
+        "rating": [
+            5,
+            4,
+            4
+        ]
+    },
+    "Reykjavik": {
+        "weather": "Cold",
+        "activities": [
+            "Northern Lights",
+            "Hot Springs",
+            "Glaciers"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Witness the mesmerizing Northern Lights in Reykjavik during winter.",
+            "Relax in the famous hot springs like the Blue Lagoon.",
+            "Explore the stunning glaciers and ice caves of Iceland."
+        ],
+        "rating": [
+            5,
+            5,
+            4
+        ]
+    },
+    "Oslo": {
+        "weather": "Cold",
+        "activities": [
+            "Viking History",
+            "Skiing",
+            "Fjords"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Learn about Viking history at the Viking Ship Museum in Oslo.",
+            "Enjoy skiing in the nearby ski resorts during the winter season.",
+            "Cruise through the picturesque Norwegian fjords for breathtaking views."
+        ],
+        "rating": [
+            4,
+            5,
+            5
+        ]
+    },
+    "Quebec City": {
+        "weather": "Cold",
+        "activities": [
+            "Historic Sites",
+            "Ice Hotel",
+            "Winter Carnival"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Quebec City's historic Old Town is charming and filled with history.",
+            "Experience a unique stay at the Ice Hotel during the winter months.",
+            "Join the festivities of the Quebec Winter Carnival for a true Canadian winter experience."
+        ],
+        "rating": [
+            5,
+            4,
+            5
+        ]
+    },
+    "Stockholm": {
+        "weather": "Cold",
+        "activities": [
+            "Archipelago",
+            "Museums",
+            "Nobel Prize"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Explore the beautiful Stockholm Archipelago with its islands and beaches.",
+            "Visit world-class museums like the Vasa Museum and ABBA: The Museum.",
+            "Learn about the Nobel Prize history at the Nobel Prize Museum."
+        ],
+        "rating": [
+            5,
+            4,
+            4
+        ]
+    },
+    "Helsinki": {
+        "weather": "Cold",
+        "activities": [
+            "Sauna",
+            "Design",
+            "Islands"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Experience the Finnish sauna culture in Helsinki.",
+            "Shop for unique Finnish designs in the Design District.",
+            "Explore the beautiful islands of Helsinki by taking a ferry."
+        ],
+        "rating": [
+            4,
+            5,
+            4
+        ]
+    },
+    "Edinburgh": {
+        "weather": "Cold",
+        "activities": [
+            "Historical Sites",
+            "Festivals",
+            "Scotch Whisky"
+        ],
+        "connectivity": [
+            "Air",
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Long-haul",
+        "feedbacks": [
+            "Edinburgh's historic sites, including the Edinburgh Castle, are impressive.",
+            "Experience the excitement of the Edinburgh Festival Fringe in August.",
+            "Taste Scotch whisky in the city known for its whisky heritage."
+        ],
+        "rating": [
+            5,
+            5,
+            4
+        ]
+    },
+    "IIITDELHI": {
+        "weather": "Hot",
+        "activities": [
+            "Studying",
+            "mess"
+        ],
+        "connectivity": [
+            "Road"
+        ],
+        "budget": "Moderate",
+        "distance": "Short-haul",
+        "feedbacks": [
+            "3"
+        ],
+        "rating": [
+            7
+        ]
+    }
+}
